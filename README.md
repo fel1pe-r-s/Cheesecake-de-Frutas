@@ -4,7 +4,7 @@ Esse desafio consiste em desenvolver um site responsivo de uma pagina de receita
 ## Deploy
 
 Para fazer o deploy desse projeto rode <br>
-[![codesandbox](https://img.shields.io/badge/Deploy-000?style=for-the-badge&logo=codesandbox&logoColor=white)](https://kvsmm9.csb.app/)
+[![codesandbox](https://img.shields.io/badge/Deploy-000?style=for-the-badge&logo=codesandbox&logoColor=white)](https://csb-kvsmm9.netlify.app/)
 
 ## Demonstração
 
